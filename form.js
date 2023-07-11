@@ -37,8 +37,8 @@ function validadeInputs() {
     setError(name, "Não é permitido que o nome seja enviado em branco");
   }
   if (emailValue === "") {
-    setError(email, "Não é permitido que o e-mail seja enviado em branco");
-  } else if (isValidEmail(emailValue)) {
+    setError(email, "E-mail não pode ficar em branco");
+  } else if (!isValidEmail(emailValue)) {
     setError(email, "E-mail inválido");
   }
   if (subjectValue === "") {
