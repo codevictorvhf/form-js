@@ -1,13 +1,13 @@
 # form-js
 
 <p align="center" >
-<img src="src/images/screenshot.png" alt="Demonstração do Projeto" width="100%" />
+<img src="images/screenshot2.png" alt="Demonstração do Projeto" width="100%" />
 
 </p>
 
 ## 🖥️ Projeto
 
-Projeto X-MEN. O projeto foi desenvolvido utilizando a linguagem de programação JavaScript, que é amplamente utilizada para criar aplicativos web interativos e dinâmicos. O objetivo principal do projeto era selecionarmos um personagem apenas passando o mouse por cada um mostrado na tela e ao lado, a imagem, o nome e a descrição do personagem serem mostrados para o usuário. 
+Projeto form. É um projeto que contém um formulário com validações em JavaScript. Usamos também como forma de validação do formulário, uma expressão regular para validar o e-mail. 
 
 ## 🚀 Tecnologias
 
